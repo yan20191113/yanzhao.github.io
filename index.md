@@ -16,7 +16,7 @@
 
 ### Short Biography
 
-Dr. **Yan Zhao** is an Assistant Professor with Aalborg University. She received the Ph.D. Degree in Computer Science from Soochow University (advised by [Prof. Kai Zheng](http://zheng-kai.com/)), in 2020. She received the Master degree in Geographic Information System from University of Chinese Academy of Sciences, in 2015. Her research interests include spatial database, trajectory computing, data mining, machine learning and deep learning.
+Dr. Yan Zhao is an Assistant Professor with Aalborg University (AAU). She received the Ph.D. degree of Computer Science from Soochow University (advised by [Prof. Kai Zheng](http://zheng-kai.com/)), in 2020. She received the Master degree of Geographic Information System from University of Chinese Academy of Sciences, in 2015. Her research interests include spatial database, trajectory computing, data mining, machine learning and deep learning.
 
 ### Journal Papers (* Corresponding author)
 
@@ -26,7 +26,7 @@ Dr. **Yan Zhao** is an Assistant Professor with Aalborg University. She received
 
 3. [TKDE] **Yan Zhao**, Kai Zheng*, Hongzhi Yin, Guanfeng Liu, Junhua Fang, Xiaofang Zhou: Preference-aware Task Assignment in Spatial Crowdsourcing: from Individuals to Groups. IEEE Transactions on Knowledge and Data Engineering (Accepted in August 2020)
 
-4. [DSE] Xiang Li, **Yan Zhao***, Xiaofang Zhou, Kai Zheng: Consensus-Based Group Task Assignment with Social Impact in Spatial Crowdsourcing. Data Science and Engineering 5 (4), 375-390.
+4. [DSE] Xiang Li, **Yan Zhao***, Xiaofang Zhou, Kai Zheng: Consensus-Based Group Task Assignment with Social Impact in Spatial Crowdsourcing. Data Science and Engineering 5 (4), 375-390
 
 5. [TKDE] Meng Chen, **Yan Zhao**, Xiaohui Yu, Kai Zheng*: Modeling Spatial Trajectories with Attribute Representation Learning. IEEE Transactions on Knowledge and Data Engineering (Accepted in Jun 2020)
 
@@ -34,7 +34,7 @@ Dr. **Yan Zhao** is an Assistant Professor with Aalborg University. She received
 
 7. [TKDE] **Yan Zhao**, Kai Zheng*, Yang Li, Han Su, Jiajun Liu, Xiaofang Zhou: Destination-aware Task Assignment in Spatial Crowdsourcing: A Worker Decomposition Approach. IEEE Transactions on Knowledge and Data Engineering 32(12): 2336-2350 (2020)
 
-8. [TKDE] Kai Zheng, **Yan Zhao***, Defu Lian, Bolong Zheng, Guanfeng Liu, Xiaofang Zhou: Reference-based Framework for Spatio-temporal Trajectory Compression and Query Processing. IEEE Transactions on Knowledge and Data Engineering 32(11): 2227-2240 (2020)
+8. [TKDE] Kai Zheng, **Yan Zhao***, Defu Lian, Bolong Zheng, Guanfeng Liu, Xiaofang Zhou: Reference-based Framework for Spatio-temporal Trajectory Compression and Query Processing. IEEE Transactions on Knowledge and Data Engineering 32(11): 2227-2240 (2020) (the first author is Yan Zhao's supervisor)
 
 9. [WWWJ] Anqi Zhao, Guanfeng Liu, Bolong Zheng, **Yan Zhao**, Kai Zheng: Temporal Paths Discovery with Multiple Constraints in Attributed Dynamic Graphs[J]. WWWJ. 1-24 (2019)
 
@@ -90,6 +90,6 @@ Dr. **Yan Zhao** is an Assistant Professor with Aalborg University. She received
 
 **Senior Program Committee Member**: IJCAI 2021
 
-**Program Committee Member**: AAAI 2021, MDM 2021
+**Program Committee Member**: AAAI 2021, MDM 2021, SpatialDI 2021
 
 

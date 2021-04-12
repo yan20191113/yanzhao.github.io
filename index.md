@@ -38,7 +38,7 @@ Dr. Yan Zhao is an Assistant Professor with Aalborg University (AAU). She receiv
 
 9. [WWWJ] Anqi Zhao, Guanfeng Liu, Bolong Zheng, **Yan Zhao**, Kai Zheng: Temporal Paths Discovery with Multiple Constraints in Attributed Dynamic Graphs[J]. WWWJ. 1-24 (2019)
 
-### Journal Papers (* Corresponding author)
+### Conference Papers (* Corresponding author)
 
 1. [ICDE] **Yan Zhao**, Kai Zheng*, Jiannan Guo, Bin Yang, Torben Bach Pedersen, Christian S. Jensen: Fairness-aware Task Assignment in Spatial Crowdsourcing: Game-Theoretic Approaches. ICDE 2021, Crete, Greece
 

@@ -6,7 +6,7 @@
       <p><a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=Oumc6Y4AAAAJ&view_op=list_works&gmla=AJsN-F4Mcdx7WA_X0P92YnKPJ53XghjFlVcFR5Ci71JnwKCO3EEtGU4VgdOmJct1EExlomSKyQWiMZH44t3skUHCjcx8M-d2u91JXNBD6itbZ8ymtTsP9RA">My Google Scholar Page</a> |
       <a href="https://dblp.uni-trier.de/pers/hd/z/Zhao_0008:Yan">My DBLP Page</a></p>
       <p><b>Email: yanz@cs.aau.dk</b></p>
-      <p><b>Address: Office 3.2.38, Selma Lagerlöfs Vej 300, DK-9220, Aalborg Øst, Denmark</b></p>
+      <p><b>Address: Office 3.2.57, Selma Lagerlöfs Vej 300, DK-9220, Aalborg Øst, Denmark</b></p>
     </td>
     <td width="25%">
       <img src="1.jpg" width="100%">      
